@@ -11,21 +11,6 @@ This repository serves as a collection of projects inspired by the book "Advance
 Currently, the following projects are included in this repository:
 
 
-
-## Usage
-
-To replicate these projects or experiment with them:
-
-1. Clone this repository to your local machine.
-
-2. Open the project folder of your choice in MPLAB IDE.
-
-3. Load the project files and build the project.
-
-4. Program the PIC18F4520 microcontroller with the generated HEX file.
-
-5. Test the project on the target hardware and observe the results.
-
 ## Contributing
 
 Contributions to this repository are welcome! If you have implemented additional projects from the book or have improvements to existing ones, feel free to submit a pull request.
