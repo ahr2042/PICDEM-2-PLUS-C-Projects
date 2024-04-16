@@ -10,6 +10,11 @@ This repository serves as a collection of projects inspired by the book "Advance
 
 Currently, the following projects are included in this repository:
 
+1. **Chasing-LEDs**
+
+2.  **LED-Dice**
+
+3.  **Two-Dice-Project**
 
 ## Contributing
 
